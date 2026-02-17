@@ -25,11 +25,17 @@ Example:
 Channel  | Cost  | Revenue | Conversions
 
 Website  | 1000$ | 3000$   | 150
+
 SMS      | 500$  | 1200$   | 60
+
 Email    | 300$  | 800$    | 40
 
 
+
 Channel   | Expected Return
+
 Website → | 50% 
+
 SMS     → | 30%
+
 Email   → | 20% 
